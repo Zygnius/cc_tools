@@ -1,0 +1,28 @@
+{
+    "games":[
+        {
+            "title": "Chip's Challenge",
+            "platform": {
+                "launch year": 1989,
+                "name": "Atari Lynx"
+            },
+            "year": 1989
+        },
+        {
+            "title": "Chip's Challenge 2",
+            "platform": {
+                "launch year": 2003,
+                "name": "Steam"
+            },
+            "year": 2015
+        },
+        {
+            "title": "Super Smash Bros Ultimate",
+            "platform": {
+                "launch year": 2017,
+                "name": "Nintendo Switch"
+            },
+            "year": 2018
+        }
+    ]
+}
